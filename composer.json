@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/versioning",
+    "name": "boing6002/versioning",
     "description": "Prevents update conflicts using the optimistic lock pattern in Laravel",
     "keywords": [
         "laravel-enso",
